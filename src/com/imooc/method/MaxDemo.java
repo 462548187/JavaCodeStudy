@@ -9,8 +9,10 @@ public class MaxDemo {
 
   public static void main(String[] args) {
     MaxDemo maxDemo = new MaxDemo();
-    float a = 6;
-    float b = 8;
+    float a = 6.8f;
+    float b = 8.0f;
     maxDemo.max(a, b);
+
+    maxDemo.max(6.8f, 1.2f);
   }
 }
