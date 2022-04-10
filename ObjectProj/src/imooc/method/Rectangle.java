@@ -1,4 +1,4 @@
-package com.imooc.method;
+package imooc.method;
 
 public class Rectangle {
   // 求长方形面积的方法
@@ -10,7 +10,7 @@ public class Rectangle {
 
   public static void main(String[] args) {
     Rectangle rc = new Rectangle();
-    //    rc.area();
-    System.out.println("长方形的面积为：" + rc.area());
+    int area = rc.area();
+    System.out.println("长方形的面积为：" + area);
   }
 }

@@ -1,4 +1,4 @@
-package com.imooc.array;
+package imooc.array;
 
 import java.util.Scanner;
 

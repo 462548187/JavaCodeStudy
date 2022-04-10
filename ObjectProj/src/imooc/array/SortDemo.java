@@ -1,4 +1,4 @@
-package com.imooc.array;
+package imooc.array;
 
 public class SortDemo {
   public static void main(String[] args) {

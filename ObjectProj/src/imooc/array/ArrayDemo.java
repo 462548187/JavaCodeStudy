@@ -1,4 +1,4 @@
-package com.imooc.array;
+package imooc.array;
 
 public class ArrayDemo {
   public static void main(String[] args) {

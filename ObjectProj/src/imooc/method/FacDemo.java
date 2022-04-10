@@ -1,6 +1,7 @@
-package com.imooc.method;
+package imooc.method;
 
 public class FacDemo {
+  // 求指数的和
   public int fac(int n) {
     int s = 1;
     for (int i = 1; i <= n; i++) {

@@ -1,4 +1,4 @@
-package com.imooc.method;
+package imooc.method;
 
 public class MethodDemo {
   // 打印输出星号的方法

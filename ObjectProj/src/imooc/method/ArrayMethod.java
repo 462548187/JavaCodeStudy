@@ -1,4 +1,4 @@
-package com.imooc.method;
+package imooc.method;
 
 public class ArrayMethod {
   // 打印输出数组元素的值

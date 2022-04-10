@@ -1,4 +1,4 @@
-package com.imooc.method;
+package imooc.method;
 
 public class MaxDemo {
   // 求最大值的方法
